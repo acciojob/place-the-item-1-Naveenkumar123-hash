@@ -1,2 +1,16 @@
+.colors{display:flex;
+	   flex-wrap:wrap;
+	   justify-content:space-between;}
+.one{background:green;
+	height:30px;
+	width:30px;}
+.two{background:red;
+	height:30px;
+	width:30px;}
+.three{background:blue;
+	height:30px;
+	  width:30px;}
+
+
 
 /* Your CSS Code here. */
